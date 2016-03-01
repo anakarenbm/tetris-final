@@ -1,0 +1,10 @@
+0
+<<<<<<< HEAD
+1
+TypeI
+TypeS
+3
+15
+0
+=======
+>>>>>>> origin/master
